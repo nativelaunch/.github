@@ -55,6 +55,6 @@ Every line of code in NativeLaunch is optimized for clarity, scalability, and pr
 ---
 
 **Follow**  
-🌐 [nativelaunch.dev](https://nativelaunch.dev) 💬 [@JonyPopov](https://twitter.com/jonypopov) 📧 support@nativelaunch.dev  
+🌐 [nativelaunch.dev](https://nativelaunch.dev) 💬 [@JonyPopov](https://twitter.com/jonypopov) 📧 jonypopovv@gmail.com
 
 ---
