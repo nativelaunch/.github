@@ -22,6 +22,7 @@ My goal is to make modern mobile development **beautiful, scalable, and maintain
 ### Build mobile apps faster
 
 - **NativeLaunch Starter** — complete Expo SDK 53 + React Native 0.79 template with Supabase backend, authentication, payments (RevenueCat), and push notifications (OneSignal).  
+  Includes a **monorepo setup** and an optional **UniWind (Tailwind v4)** styling variant.
 - **NativeLaunch Pro** (SOON) — now includes the new **Moneyra: Expense Tracker** app, a full personal finance example built with an offline-first local database (WatermelonDB) and iCloud backups.  
   Designed to demonstrate how to build a real production app using the NativeLaunch stack.
 
@@ -34,7 +35,7 @@ My goal is to make modern mobile development **beautiful, scalable, and maintain
 - 🧠 **Supabase integration** — authentication, storage, and database ready.  
 - 💰 **RevenueCat integration** — easy in-app purchases & subscriptions.  
 - 🔔 **OneSignal notifications** — push setup in minutes.  
-- 🧵 **Tailwind v4 + NativeWind** — dark-mode design system with tokens.  
+- 🧵 **Tailwind v3 + NativeWind / Tailwind v4 + Heroui-Native** — dark-mode design system with tokens.  
 - 🪶 **Sentry monitoring** — error tracking and performance analytics.
 
 ---
