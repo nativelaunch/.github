@@ -23,7 +23,7 @@ My goal is to make modern mobile development **beautiful, scalable, and maintain
 
 - **NativeLaunch Starter** — complete Expo SDK 53 + React Native 0.79 template with Supabase backend, authentication, payments (RevenueCat), and push notifications (OneSignal).  
   Includes a **monorepo setup** and an optional **UniWind (Tailwind v4)** styling variant.
-- **NativeLaunch Pro** (SOON) — now includes the new **Moneyra: Expense Tracker** app, a full personal finance example built with an offline-first local database (WatermelonDB) and iCloud backups.  
+- **NativeLaunch Pro** — now includes the new **Moneyra: Expense Tracker** app, a full personal finance example built with an offline-first local database (WatermelonDB) and iCloud backups.  
   Designed to demonstrate how to build a real production app using the NativeLaunch stack.
 
 ---
