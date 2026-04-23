@@ -11,7 +11,7 @@
 
 ## 🚀 Hey, I'm building NativeLaunch
 
-I create **production-ready Expo + React Native templates** that help developers move from idea to App Store — faster, cleaner, and with confidence.  
+I create **production-ready Expo + React Native templates** that help developers move from idea to App Store — faster, cleaner, and with confidence.
 
 My goal is to make modern mobile development **beautiful, scalable, and maintainable by default.**
 
@@ -21,41 +21,39 @@ My goal is to make modern mobile development **beautiful, scalable, and maintain
 
 ### Build mobile apps faster
 
-- **NativeLaunch Starter** — complete Expo SDK 54 + React Native 0.81 template with Supabase backend, authentication, payments (RevenueCat), and push notifications (OneSignal).  
-  Includes a **monorepo setup** and an optional **UniWind (Tailwind v4)** styling variant.
-- **NativeLaunch Pro** — now includes the new **Moneyra: Expense Tracker** app, a full personal finance example built with an offline-first local database (WatermelonDB) and iCloud backups.  
+- **NativeLaunch Starter** — complete Expo SDK 55 + React Native 0.83 template with Supabase backend, authentication, payments (RevenueCat), and push notifications (OneSignal).
+  Includes a **monorepo setup** powered by **UniWind (Tailwind v4) + HeroUI Native** styling system.
+- **NativeLaunch Pro** — now includes the new **Moneyra: Expense Tracker** app, a full personal finance example built with an offline-first local database (WatermelonDB) and iCloud backups. Styled with **NativeWind (Tailwind v3)**.
   Designed to demonstrate how to build a real production app using the NativeLaunch stack.
 
 ---
 
 ## ⚙️ Supercharge your workflow
 
-- 🧩 **EAS Cloud & Local builds** — preconfigured for iOS and Android.  
-- ⚡ **GitHub Actions CI/CD** — automatic releases, OTA updates, and versioning.  
-- 🧠 **Supabase integration** — authentication, storage, and database ready.  
-- 💰 **RevenueCat integration** — easy in-app purchases & subscriptions.  
-- 🔔 **OneSignal notifications** — push setup in minutes.  
-- 🧵 **Tailwind v3 + NativeWind / Tailwind v4 + Heroui-Native** — dark-mode design system with tokens.  
+- 🧩 **EAS Cloud & Local builds** — preconfigured for iOS and Android.
+- ⚡ **GitHub Actions CI/CD** — automatic releases, OTA updates, and versioning.
+- 🧠 **Supabase integration** — authentication, storage, and database ready.
+- 💰 **RevenueCat integration** — easy in-app purchases & subscriptions.
+- 🔔 **OneSignal notifications** — push setup in minutes.
+- 🧵 **Tailwind v4 + UniWind + HeroUI Native** — dark-mode design system with tokens. Also available with Tailwind v3 + NativeWind (Moneyra).
 - 🪶 **Sentry monitoring** — error tracking and performance analytics.
 
 ---
 
 ## 📚 Learn more
 
-- 📖 [Documentation →](https://nativelaunch.dev/docs)  
-- 🛍️ [Get the Template →](https://nativelaunch.lemonsqueezy.com)  
+- 📖 [Documentation →](https://nativelaunch.dev/docs)
+- 🛍️ [Get the Template →](https://nativelaunch.lemonsqueezy.com)
 - 🧠 [Blog →](https://nativelaunch.dev/blog)
 
 ---
 
 ## 👋 About
 
-I'm an independent developer passionate about **beautiful UI, developer experience, and indie-friendly tools.**  
+I'm an independent developer passionate about **beautiful UI, developer experience, and indie-friendly tools.**
 Every line of code in NativeLaunch is optimized for clarity, scalability, and production readiness — so you can focus on shipping great apps.
 
 ---
 
-**Follow**  
-🌐 [nativelaunch.dev](https://nativelaunch.dev) 💬 [@JonyPopov](https://twitter.com/jonypopov) 📧 jonypopovv@gmail.com
-
----
+**Follow**
+🌐 [nativelaunch.dev](https://nativelaunch.dev) 💬 [@JonyPopov](https://twitter.com/jonypopov) 📧 jonypopovv@gmail.com
