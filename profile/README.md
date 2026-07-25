@@ -21,9 +21,9 @@ My goal is to make modern mobile development **beautiful, scalable, and maintain
 
 ### Build mobile apps faster
 
-- **NativeLaunch Starter** — complete Expo SDK 55 + React Native 0.83 template with Supabase backend, authentication, payments (RevenueCat), and push notifications (OneSignal).
-  Includes a **monorepo setup** powered by **UniWind (Tailwind v4) + HeroUI Native** styling system.
-- **NativeLaunch Pro** — now includes the new **Moneyra: Expense Tracker** app, a full personal finance example built with an offline-first local database (WatermelonDB) and iCloud backups. Styled with **NativeWind (Tailwind v3)**.
+- **NativeLaunch Starter** — complete Expo SDK 56 + React Native 0.85.3 + React 19.2.3 template with Supabase backend, authentication, payments (RevenueCat), and push notifications (OneSignal).
+  Includes a **monorepo setup** powered by **UniWind 1.9 (Tailwind v4) + HeroUI Native 1.0** styling system.
+- **NativeLaunch Pro** — includes **Moneyra: Expense Tracker**, a full personal finance example built with an offline-first local database (WatermelonDB) and iCloud backups. Styled with **NativeWind (Tailwind v3)**.
   Designed to demonstrate how to build a real production app using the NativeLaunch stack.
 
 ---
@@ -33,9 +33,9 @@ My goal is to make modern mobile development **beautiful, scalable, and maintain
 - 🧩 **EAS Cloud & Local builds** — preconfigured for iOS and Android.
 - ⚡ **GitHub Actions CI/CD** — automatic releases, OTA updates, and versioning.
 - 🧠 **Supabase integration** — authentication, storage, and database ready.
-- 💰 **RevenueCat integration** — easy in-app purchases & subscriptions.
+- 💰 **RevenueCat integration** — easy in-app purchases and subscriptions.
 - 🔔 **OneSignal notifications** — push setup in minutes.
-- 🧵 **Tailwind v4 + UniWind + HeroUI Native** — dark-mode design system with tokens. Also available with Tailwind v3 + NativeWind (Moneyra).
+- 🧵 **Tailwind v4 + UniWind 1.9 + HeroUI Native 1.0** — dark-mode design system with tokens. Also available with Tailwind v3 + NativeWind in Moneyra.
 - 🪶 **Sentry monitoring** — error tracking and performance analytics.
 
 ---
@@ -56,4 +56,5 @@ Every line of code in NativeLaunch is optimized for clarity, scalability, and pr
 ---
 
 **Follow**
+
 🌐 [nativelaunch.dev](https://nativelaunch.dev) 💬 [@JonyPopov](https://twitter.com/jonypopov) 📧 jonypopovv@gmail.com
